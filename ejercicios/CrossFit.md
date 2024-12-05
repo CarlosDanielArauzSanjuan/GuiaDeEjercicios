@@ -21,3 +21,17 @@ Ejecución de "Cindy" (AMRAP de 20 minutos):
 5 dominadas (Pull-ups): Realiza una dominada completa, asegurándote de que el mentón pase por encima de la barra. Si no puedes hacer dominadas, puedes sustituirlas por dominadas asistidas o "ring rows".
 10 flexiones de brazos (Push-ups): Realiza flexiones controladas, manteniendo una línea recta desde la cabeza hasta los talones, asegurándote de que el pecho toque casi el suelo antes de empujar hacia arriba.
 15 sentadillas (Air squats): Realiza una sentadilla profunda con los pies a la altura de los hombros. Asegúrate de bajar los glúteos por debajo de las rodillas y mantener el torso erguido.
+
+Repetir: Realiza tantas rondas como puedas dentro de los 20 minutos, manteniendo una técnica adecuada y controlando la respiración. El objetivo es maximizar el número de rondas completas sin sacrificar la forma.
+
+Enfriamiento: Después de completar el AMRAP, realiza 5-10 minutos de estiramientos para los músculos trabajados, prestando especial atención a los hombros, piernas y espalda baja.
+
+
+## Consejos y precauciones:
+
+Mantén una técnica adecuada: Es crucial mantener una buena forma durante todo el entrenamiento para evitar lesiones, especialmente en los movimientos de dominadas y flexiones. No te apresures en los ejercicios; la técnica es más importante que la velocidad.
+Escucha a tu cuerpo: Si te sientes fatigado o te resulta difícil mantener la técnica, toma un descanso breve antes de continuar. Recuerda que es un entrenamiento de resistencia y no una carrera.
+Modificaciones: Si no puedes hacer dominadas o flexiones completas, realiza versiones más fáciles de estos ejercicios (por ejemplo, flexiones de rodillas o dominadas asistidas con banda elástica).
+Controla la respiración: La respiración controlada durante cada repetición es importante para mantener la energía y evitar la fatiga prematura. Inhala cuando bajes y exhala al subir.
+Aumenta gradualmente la intensidad: Si eres nuevo en CrossFit, comienza con un tiempo de AMRAP más corto, como 10-15 minutos, y aumenta a medida que tu resistencia mejora.
+ 
