@@ -51,3 +51,26 @@ de actividad física
 - Estiramientos de brazos (3 series de 10 repeticiones)
 - Estiramientos de espalda (3 series de 10 repeticiones)
 - Estiramientos de caderas (3 series de 10 repeticiones)
+
+## : Consejos y precauciones del ejercicio.
+Calentamiento adecuado: Antes de comenzar el entrenamiento, es fundamental realizar un calentamiento general de 5 a 10 minutos, como caminar o trotar suave, seguido de algunos estiramientos dinámicos para preparar los músculos y las articulaciones.
+
+Uso de peso adecuado: Elige un peso que te permita realizar las repeticiones correctamente, sin comprometer la técnica. Si sientes que no puedes completar una serie de manera controlada, reduce el peso.
+
+Postura correcta: Mantén una postura adecuada durante todo el ejercicio para evitar lesiones. En los ejercicios de fuerza, asegúrate de mantener la espalda recta y los abdominales contraídos.
+
+Respiración adecuada: No olvides respirar durante los ejercicios. Inhala durante la fase de relajación (cuando levantas el peso o te relajas) y exhala al realizar el esfuerzo (cuando empujas o levantas).
+
+Escucha a tu cuerpo: Si sientes dolor o incomodidad (más allá de la fatiga muscular), detén el ejercicio inmediatamente y consulta a un profesional de la salud si es necesario.
+
+Hidratación: Mantente bien hidratado durante todo el entrenamiento para evitar la deshidratación y mejorar tu rendimiento.
+
+Progresión gradual: A medida que tu cuerpo se adapte, aumenta progresivamente el número de repeticiones, series o peso para continuar desafiando tus músculos y mejorando tu condición física.
+
+Descanso adecuado: El descanso entre series es importante para permitir que los músculos se recuperen, así que respétalo para evitar la sobrecarga.
+
+Evitar sobreesfuerzos: Si eres principiante, comienza con ejercicios más simples y avanza gradualmente para evitar lesiones por sobrecarga.
+
+Realiza estiramientos al finalizar: Al finalizar el entrenamiento, dedica tiempo a estirar todos los grupos musculares trabajados. Esto ayudará a mejorar la flexibilidad y reducir la rigidez muscular.
+
+Este enfoque integral no solo mejora tu estado físico, sino que también contribuye a una mayor conexión cuerpo-mente.
