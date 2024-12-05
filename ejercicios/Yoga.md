@@ -30,3 +30,27 @@ Algunos de los beneficios más destacados incluyen
 - Mejora de la conexión con uno mismo y con los demás
 - Mejora de la capacidad para manejar el estrés y la ansiedad
 - Mejora de la capacidad para manejar el dolor y la inflamación
+
+## : Instrucciones de cómo realizarlo.
+Para realizar el ejercicio de yoga, sigue estos pasos:
+1. Encuentra un lugar tranquilo y cómodo para practicar.
+2. Coloca una manta o una toalla en el suelo para sentarte o ac
+3. Comienza con una respiración profunda y relajada.
+4. Estira los brazos y las piernas para liberar la tensión.
+5. Practica una serie de posturas básicas, como la postura del ángulo
+(Anjaneyasana), la postura del perro (Adho Mukha S
+6. Practica una serie de respiraciones profundas y relajadas.
+7. Termina con una postura de relajación, como la postura del niño
+(Paschimottanasana).
+8. Mantén la postura durante unos minutos para sentir la relajación y la calma
+9. Cierra los ojos y respira profundamente para sentir la conexión con uno mismo y
+con la naturaleza.
+10. Termina con una oración o una meditación para sentir la gratitud y la
+conexión con uno mismo y con los demás.
+11. Cierra los ojos y respira profundamente para sentir la relajación y la
+calma.
+12. Termina con una sonrisa y una sensación de bienestar.
+13. Cierra los ojos y respira profundamente para sentir la conexión con uno
+mismo y con la naturaleza.
+14. Termina con una oración o una meditación para sentir la gratitud y la
+conexión con uno mismo y con los demás.
