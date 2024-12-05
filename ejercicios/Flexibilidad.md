@@ -30,3 +30,10 @@ Para realizar el ejercicio de estiramiento, sigue estos pasos:
 6. Mantén la posición durante 15-30 segundos
 7. Repite el ejercicio 2-3 veces.
 
+## Consejos y precauciones
+- Asegúrate de estirar los músculos y articulaciones adecuadamente
+- No estires demasiado fuerte, ya que esto puede causar lesiones
+- No estires los músculos y articulaciones que estén inflamados o dolor
+- Asegúrate de estirar los músculos y articulaciones en ambas direcciones
+- Asegúrate de estirar los músculos y articulaciones en diferentes posiciones
+- Asegúrate de estirar los músculos y articulaciones con regularidad
