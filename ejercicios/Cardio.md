@@ -29,3 +29,15 @@ El objetivo es realizar el mayor numero de repeticiones posible en un tiempo det
 6. Repite el movimiento
 7. Mantén el ritmo y la velocidad durante todo el ejercicio
 8. Realiza el mayor número de repeticiones posible en el tiempo determinado
+
+## consejos y precauciones
+- Asegúrate de calentar antes de realizar el ejercicio
+- Asegúrate de tener una buena técnica y postura
+- Asegúrate de no sobrecargar tus músculos
+- Asegúrate de no realizar el ejercicio con lesiones o dolores
+- Asegúrate de tener un buen equilibrio y coordinación
+- Asegúrate de no realizar el ejercicio en una posición que te cause dolor o incomodo
+- Asegúrate de tener un buen ritmo y velocidad
+- Asegúrate de no realizar el ejercicio con una postura que te cause dolor o incomodo
+- Asegúrate de tener un buen control sobre el peso o barra
+- Asegúrate de no realizar el ejercicio con una técnica que te cause dolor o incomodidad
