@@ -21,3 +21,9 @@ Realiza los movimientos de los brazos: Comienza a bombear los brazos hacia arrib
 Mantén el control: Mantén tu abdomen activado, sin dejar que tu espalda baja se arquee. Sigue el ritmo de los brazos y mantén la concentración en tu respiración.
 
 Finaliza el ejercicio: Después de 100 pulsos, baja lentamente la cabeza y los hombros al suelo, relaja las piernas y respira profundamente antes de continuar con el siguiente ejercicio.
+
+## : Consejos y precauciones.
+No fuerces el cuello: El objetivo es levantar la cabeza y los hombros, pero nunca debes forzar el cuello. Mantén la cabeza alineada con la columna y asegúrate de que no haya presión en el cuello.
+Evita arquear la espalda baja: Si sientes que tu espalda baja se arca, baja las piernas un poco o mantén las rodillas dobladas. El abdomen debe estar bien contraído durante todo el ejercicio para proteger la zona lumbar.
+Controla la respiración: La respiración es esencial en Pilates. Asegúrate de seguir el patrón de respiración con cada bombeo de los brazos: inhala por 5 pulsos y exhala por 5 pulsos.
+Comienza despacio: Si eres nuevo en Pilates, empieza con 50 pulsos y aumenta gradualmente hasta llegar a 100 cuando te sientas más cómodo con el movimiento.
