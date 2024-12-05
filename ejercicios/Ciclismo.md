@@ -9,7 +9,9 @@ Aumenta la quema de grasa: Los intervalos de alta intensidad aceleran el metabol
 Fortalece los músculos de las piernas: El esfuerzo máximo durante los intervalos fortalece los músculos principales de las piernas, como los cuádriceps, isquiotibiales y glúteos.
 Mejora la resistencia general: Al alternar entre períodos de alta y baja intensidad, el cuerpo se adapta y mejora la resistencia física.
 Reduce el tiempo de entrenamiento: El HIIT permite obtener grandes beneficios en sesiones más cortas de ejercicio, siendo ideal para quienes tienen poco tiempo.
-Instrucciones del ejercicio:
+
+## : Instrucciones de cómo realizarlo.
+
 Calentamiento: Comienza con 5-10 minutos de pedaleo suave para preparar tus músculos y corazón para el esfuerzo. Esto ayudará a evitar lesiones y a mejorar el rendimiento durante el entrenamiento.
 
 Intervalos de alta intensidad: Acelera el ritmo hasta un esfuerzo máximo durante 30 segundos. Durante este período, pedalea lo más rápido posible, aumentando la resistencia si es necesario para simular una subida o mayor esfuerzo.
@@ -19,4 +21,3 @@ Recuperación activa: Después del intervalo intenso, reduce la velocidad y peda
 Repetir los intervalos: Realiza entre 6 y 10 ciclos de alta intensidad y recuperación activa. A medida que te acostumbres al ejercicio, puedes aumentar el número de intervalos.
 
 Enfriamiento: Termina la sesión con 5-10 minutos de pedaleo suave a un ritmo lento para reducir gradualmente la frecuencia cardíaca y evitar mareos o rigidez muscular.
-
