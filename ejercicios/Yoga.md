@@ -13,3 +13,20 @@ múltiples estilos y técnicas para encontrar lo que mejor se adapte a cada pers
 y sus objetivos.
 
 
+## : Beneficios del ejercicio.
+El ejercicio de yoga tiene muchos beneficios para la salud y el bienestar.
+Algunos de los beneficios más destacados incluyen
+- Reducción del estrés y la ansiedad
+- Mejora de la flexibilidad y la movilidad
+- Fortalecimiento de los músculos y la resistencia
+- Mejora de la postura y la alineación del cuerpo
+- Mejora de la respiración y la capacidad pulmonar
+- Reducción del dolor y la inflamación
+- Mejora de la calidad del sueño
+- Mejora de la concentración y la atención
+- Mejora de la autoestima y la confianza
+- Reducción del riesgo de enfermedades crónicas
+- Mejora de la salud mental y emocional
+- Mejora de la conexión con uno mismo y con los demás
+- Mejora de la capacidad para manejar el estrés y la ansiedad
+- Mejora de la capacidad para manejar el dolor y la inflamación
