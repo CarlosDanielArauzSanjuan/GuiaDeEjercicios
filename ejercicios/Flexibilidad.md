@@ -20,3 +20,13 @@ Los beneficios del ejercicio de estiramiento incluyen:
 - Ayuda a reducir el riesgo de enfermedades crónicas.
 - Ayuda a mejorar la calidad de vida.
 
+## Instrucciones del ejercicio
+Para realizar el ejercicio de estiramiento, sigue estos pasos:
+1. Encuentra un lugar cómodo y tranquilo para estirarte
+2. Elige los músculos y articulaciones que deseas estirar
+3. Coloca tus pies separados a la anchura de los hombros
+4. Coloca tus manos en la pared o en un objeto estable para apoyarte
+5. Inhala profundamente y exhala lentamente mientras estiras los músculos
+6. Mantén la posición durante 15-30 segundos
+7. Repite el ejercicio 2-3 veces.
+
