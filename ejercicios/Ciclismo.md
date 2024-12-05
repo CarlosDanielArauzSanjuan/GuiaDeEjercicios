@@ -21,3 +21,10 @@ Recuperación activa: Después del intervalo intenso, reduce la velocidad y peda
 Repetir los intervalos: Realiza entre 6 y 10 ciclos de alta intensidad y recuperación activa. A medida que te acostumbres al ejercicio, puedes aumentar el número de intervalos.
 
 Enfriamiento: Termina la sesión con 5-10 minutos de pedaleo suave a un ritmo lento para reducir gradualmente la frecuencia cardíaca y evitar mareos o rigidez muscular.
+
+## : Consejos y precauciones.
+Escucha a tu cuerpo: El entrenamiento HIIT es intenso. Si sientes mareos, dificultad para respirar o dolor, reduce la intensidad o detente y busca asistencia médica si es necesario.
+Hidratación: Mantente bien hidratado antes, durante y después del ejercicio, ya que el HIIT puede provocar una pérdida significativa de líquidos a través del sudor.
+Ajusta la bicicleta: Asegúrate de que tu bicicleta esté bien ajustada a tu altura para evitar tensiones innecesarias en las rodillas y la espalda.
+No descuides el calentamiento y enfriamiento: Estos son pasos fundamentales para prevenir lesiones y mejorar tu rendimiento en sesiones posteriores.
+Progresión gradual: Si eres nuevo en este tipo de ejercicio, comienza con un menor número de intervalos (por ejemplo, 4-5) y aumenta gradualmente a medida que tu resistencia mejora.
