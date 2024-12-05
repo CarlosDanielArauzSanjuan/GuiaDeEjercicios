@@ -28,3 +28,10 @@ Repetir los intervalos: Realiza de 6 a 10 ciclos de trabajo intenso seguidos de 
 
 Enfriamiento: Termina con 5-10 minutos de estiramientos para los hombros, brazos y piernas. Esto ayudará a prevenir la rigidez muscular y a mejorar la flexibilidad.
 
+## Consejos y precauciones:
+
+Mantén la guardia alta: Durante todo el ejercicio, asegúrate de mantener las manos cerca de tu rostro para protegerte y evitar lesiones.
+Controla tus golpes: Aunque es un entrenamiento de alta intensidad, la técnica debe ser siempre prioritaria. No golpees con fuerza sin tener la forma correcta, ya que esto puede provocar lesiones en las muñecas o los hombros.
+Respira correctamente: Inhala mientras preparas los golpes y exhala al ejecutarlos. Una respiración controlada te ayudará a mantener la energía y la resistencia durante todo el ejercicio.
+No descuides el core: Al realizar las combinaciones, activa el abdomen para asegurar estabilidad en tu cuerpo y maximizar la fuerza de tus golpes.
+Aumenta la intensidad gradualmente: Si eres principiante, comienza con intervalos más cortos de alta intensidad y aumenta el tiempo a medida que aumente tu resistencia y habilidad.
