@@ -27,4 +27,28 @@ Para realizar el levantamiento de mancuernas de manera segura y efectiva, sigue 
 6. **Repetición**: Repite el movimiento varias veces, ajustando la intensidad y el volumen según tus necesidades y objetivos.
 7. **Descanso**: Toma descansos regulares para evitar la fatiga y la lesión.
 
+## consejos y precausiones
+- Asegúrate de calentar antes de comenzar a levantar mancuernas.
+- Utiliza mancuernas adecuadas para tu nivel de fuerza y habilidad.
+- Mantén una buena postura y técnica para evitar lesiones.
+- No levantes mancuernas con exceso de peso, ya que esto puede aumentar
+el riesgo de lesiones.
+- No levantes mancuernas con frecuencia, ya que esto puede causar fatiga
+muscular y lesiones.
+- Consulta con un profesional de la salud o un entrenador antes de comenzar
+a levantar mancuernas, especialmente si tienes alguna condición médica o
+lesión previa.
+- Asegúrate de tener un espacio seguro para levantar mancuernas y de que
+estés en un área libre de obstáculos.
+- No levantes mancuernas si tienes dolor o incomodidad en los brazos,
+hombros o torso.
+- No levantes mancuernas si tienes problemas de equilibrio o coordinación.
+- No levantes mancuernas si tienes problemas de salud cardíaca o respiratoria.
+- No levantes mancuernas si tienes problemas de salud ósea.
+- No levantes mancuernas si tienes problemas de salud muscular.
+- No levantes mancuernas si tienes problemas de salud general.
+- No levantes mancuernas si tienes problemas de salud mental.
+- No levantes mancuernas si tienes problemas de salud emocional.
+- No levantes mancuernas si tienes problemas de salud física.
+
 
