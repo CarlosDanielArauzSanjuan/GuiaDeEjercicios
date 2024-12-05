@@ -11,3 +11,20 @@ Desarrolla fuerza y resistencia muscular: Golpear el saco o el aire con combinac
 Aumenta la velocidad y coordinación: Al realizar combinaciones rápidas, mejoras la sincronización entre los golpes y la velocidad de reacción.
 Quema de calorías: El boxeo es un ejercicio que quema muchas calorías, lo que favorece la pérdida de peso y la mejora de la composición corporal.
 Aumenta la agilidad y equilibrio: El boxeo ayuda a mejorar el control del cuerpo, trabajando tanto la agilidad como la capacidad de moverse con equilibrio.
+
+## Instrucciones del ejercicio:
+Calentamiento: Comienza con 5-10 minutos de movimientos suaves, como saltar la cuerda o hacer shadow boxing (boxeo sin equipo, simulando golpes en el aire), para preparar tus músculos y sistema cardiovascular.
+
+Intervalos de alta intensidad: Realiza una combinación de golpes durante 30-60 segundos. Algunas combinaciones recomendadas son:
+
+Jab - Cross - Uppercut (Golpe de izquierda, golpe de derecha, uppercut con la derecha).
+Jab - Jab - Cross - Hook (Golpe de izquierda, golpe de izquierda, golpe de derecha, gancho con la izquierda).
+Jab - Cross - Hook - Uppercut (Golpe de izquierda, golpe de derecha, gancho con la izquierda, uppercut con la derecha).
+Durante este tiempo, ejecuta los golpes con la máxima velocidad y potencia posibles, concentrándote en la técnica y manteniendo la guardia alta.
+
+Recuperación activa: Durante 30-60 segundos, haz un trote suave en el lugar, camina o realiza un movimiento de shadow boxing de bajo impacto para reducir la frecuencia cardíaca y recuperar el aliento.
+
+Repetir los intervalos: Realiza de 6 a 10 ciclos de trabajo intenso seguidos de descanso activo. El número de intervalos puede ajustarse según tu nivel de acondicionamiento físico.
+
+Enfriamiento: Termina con 5-10 minutos de estiramientos para los hombros, brazos y piernas. Esto ayudará a prevenir la rigidez muscular y a mejorar la flexibilidad.
+
