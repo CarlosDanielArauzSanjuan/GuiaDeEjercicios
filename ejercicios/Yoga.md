@@ -54,3 +54,10 @@ calma.
 mismo y con la naturaleza.
 14. Termina con una oración o una meditación para sentir la gratitud y la
 conexión con uno mismo y con los demás.
+
+## : Consejos y precauciones.
+- Asegúrate de tener un espacio seguro y libre de obstáculos para practicar
+- Asegúrate de tener una manta o una toalla para sentarte o acostarte
+- Asegúrate de tener una buena iluminación para ver las posturas
+- Asegúrate de tener una buena ventilación para evitar la fatiga
+- Asegúrate de tener una buena hidratación para evitar la deshidratacion
