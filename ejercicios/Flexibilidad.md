@@ -1,11 +1,13 @@
 # ejercicio de estiramiento
 
-## descripcion del ejercicio
+## Estoramiento
+
 El ejercicio de estiramiento es una técnica de estiramiento que se utiliza para mejorar la
 flexibilidad y la movilidad en las articulaciones. Se realiza estirando los músculos y tendones que rodean las articulaciones, lo que ayuda a aumentar la
 amplitud de movimiento y a reducir el dolor y la inflamación.
 
 ## Beneficios del ejercicio
+
 Los beneficios del ejercicio de estiramiento incluyen:
 - Mejora la flexibilidad y la movilidad en las articulaciones.
 - Reduce el dolor y la inflamación en las articulaciones.
@@ -21,6 +23,7 @@ Los beneficios del ejercicio de estiramiento incluyen:
 - Ayuda a mejorar la calidad de vida.
 
 ## Instrucciones del ejercicio
+
 Para realizar el ejercicio de estiramiento, sigue estos pasos:
 1. Encuentra un lugar cómodo y tranquilo para estirarte
 2. Elige los músculos y articulaciones que deseas estirar
@@ -31,6 +34,7 @@ Para realizar el ejercicio de estiramiento, sigue estos pasos:
 7. Repite el ejercicio 2-3 veces.
 
 ## Consejos y precauciones
+
 - Asegúrate de estirar los músculos y articulaciones adecuadamente
 - No estires demasiado fuerte, ya que esto puede causar lesiones
 - No estires los músculos y articulaciones que estén inflamados o dolor

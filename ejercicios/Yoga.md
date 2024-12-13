@@ -1,6 +1,7 @@
-#   ejercicio Yoga
+#  Ejercicio Yoga
 
 # Descripcion ejercicio Yoga
+
 El ejercicio de yoga es una actividad física que combina técnicas de respiración,
 flexibilidad y equilibrio para mejorar la salud y el bienestar físico y mental.
 Se enfoca en la conexión entre el cuerpo, la mente y el espíritu, y
@@ -13,7 +14,8 @@ múltiples estilos y técnicas para encontrar lo que mejor se adapte a cada pers
 y sus objetivos.
 
 
-## : Beneficios del ejercicio.
+## Beneficios del ejercicio.
+
 El ejercicio de yoga tiene muchos beneficios para la salud y el bienestar.
 Algunos de los beneficios más destacados incluyen
 - Reducción del estrés y la ansiedad

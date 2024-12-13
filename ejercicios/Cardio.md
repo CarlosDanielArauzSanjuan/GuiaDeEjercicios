@@ -1,12 +1,14 @@
 # Saltos de tijera
 
-## Descripcion del ejercicio
-El salto de tijera es un ejercicio de fuerza y coordinación 
+## El salto de tijera
+
+Es un ejercicio de fuerza y coordinación 
 que implica levantar un peso o barra con las manos y realizar un movimiento de tijera con los brazos, 
 manteniendo el cuerpo en una posición vertical. 
 El objetivo es realizar el mayor numero de repeticiones posible en un tiempo determinado.
 
 ## Beneficios del ejercicio
+
 - Fuerza en los brazos y hombros
 - Coordinación y equilibrio
 - Resistencia cardiovascular
@@ -21,6 +23,7 @@ El objetivo es realizar el mayor numero de repeticiones posible en un tiempo det
 - Puede ser realizado con diferentes tipos de movimientos y técnicas.
 
 ## Instrucciones de cómo realizarlo
+
 1. Comienza en una posición vertical con los pies separados a la anchura de los hombros
 2. Sostén el peso o barra con las manos a la altura de los hombros
 3. Levanta el peso o barra hacia arriba, manteniendo los brazos rectos
@@ -31,6 +34,7 @@ El objetivo es realizar el mayor numero de repeticiones posible en un tiempo det
 8. Realiza el mayor número de repeticiones posible en el tiempo determinado
 
 ## consejos y precauciones
+
 - Asegúrate de calentar antes de realizar el ejercicio
 - Asegúrate de tener una buena técnica y postura
 - Asegúrate de no sobrecargar tus músculos

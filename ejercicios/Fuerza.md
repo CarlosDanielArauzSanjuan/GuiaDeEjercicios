@@ -1,11 +1,13 @@
 # Levantamiento de mancuernas
 
-## Descripción del ejercicio
-El levantamiento de mancuernas es un ejercicio de fuerza que implica levantar
+## El levantamiento de mancuernas 
+
+Es un ejercicio de fuerza que implica levantar
 mancuernas, que son pesadas barras de metal, hacia arriba y hacia
 adelante, con el objetivo de fortalecer los músculos de los brazos, hombros y torso.
 
 ## Beneficios del ejercicio
+
 El levantamiento de mancuernas ofrece varios beneficios para la salud y el entrenamiento físico, incluyendo:
 - Fortalecimiento de los músculos de los brazos, hombros y torso.
 - Mejora de la resistencia y la fuerza muscular.
@@ -17,6 +19,7 @@ El levantamiento de mancuernas ofrece varios beneficios para la salud y el entre
 - Reducción del riesgo de lesiones y enfermedades relacionadas con la edad.
 
 ## Instrucciones para realizar el ejercicio
+
 Para realizar el levantamiento de mancuernas de manera segura y efectiva, sigue estas instrucciones:
 
 1. **Preparación**: Antes de comenzar, asegúrate de tener un espacio suficiente para moverte y de que estés en un área segura.
@@ -28,6 +31,7 @@ Para realizar el levantamiento de mancuernas de manera segura y efectiva, sigue 
 7. **Descanso**: Toma descansos regulares para evitar la fatiga y la lesión.
 
 ## consejos y precausiones
+
 - Asegúrate de calentar antes de comenzar a levantar mancuernas.
 - Utiliza mancuernas adecuadas para tu nivel de fuerza y habilidad.
 - Mantén una buena postura y técnica para evitar lesiones.
