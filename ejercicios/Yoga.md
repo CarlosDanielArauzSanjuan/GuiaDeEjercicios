@@ -1,6 +1,6 @@
-#  Ejercicio Yoga
+# Yoga
 
-# Descripcion ejercicio Yoga
+# Descripcion del ejercicio
 
 El ejercicio de yoga es una actividad física que combina técnicas de respiración,
 flexibilidad y equilibrio para mejorar la salud y el bienestar físico y mental.

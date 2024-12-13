@@ -1,6 +1,6 @@
-# ejercicio de estiramiento
+# Estiramiento
 
-## Estoramiento
+## Descripcion del ejercicio
 
 El ejercicio de estiramiento es una técnica de estiramiento que se utiliza para mejorar la
 flexibilidad y la movilidad en las articulaciones. Se realiza estirando los músculos y tendones que rodean las articulaciones, lo que ayuda a aumentar la

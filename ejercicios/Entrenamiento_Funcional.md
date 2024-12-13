@@ -1,4 +1,4 @@
-# ejercicio de Entrenamiento Funcional
+# Entrenamiento Funcional
 
 ## Descripcion del ejercicio
 

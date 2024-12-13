@@ -1,4 +1,4 @@
-# Ejercicio de natacion
+# Natacion
 
 ## Descripción del ejercicio
 

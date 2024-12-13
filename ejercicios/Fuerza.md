@@ -1,6 +1,6 @@
 # Levantamiento de mancuernas
 
-## El levantamiento de mancuernas 
+## Descripcion del ejercicio
 
 Es un ejercicio de fuerza que implica levantar
 mancuernas, que son pesadas barras de metal, hacia arriba y hacia

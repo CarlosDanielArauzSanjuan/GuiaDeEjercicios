@@ -1,6 +1,6 @@
-# Saltos de tijera
+# El salto de tijera
 
-## El salto de tijera
+## Descripcion del ejercicio
 
 Es un ejercicio de fuerza y coordinación 
 que implica levantar un peso o barra con las manos y realizar un movimiento de tijera con los brazos, 
